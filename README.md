@@ -24,4 +24,7 @@
 
 ## About Me
 
-Currently working in IT support and studying at Wayne State University. Based in the Detroit metro area.
+
+I currently work in IT support and am studying at Wayne State University. I'm based in the Detroit metro area and building hands-on experience toward a career in Identity & Access Management, one project at a time, documented here as I go.
+
+Outside of IT, I enjoy traveling, playing football, working out, gardening, and music.
