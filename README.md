@@ -28,6 +28,7 @@ Each one is documented with the full investigation and reasoning, not just the o
 
 ## About Me
 
-I currently work in IT support and am studying at Wayne State University, based in the Detroit metro area. This portfolio documents my progression toward Identity & Access Management, one project at a time.
+## About Me
 
-Outside of IT, I enjoy traveling, playing football, working out, gardening, and music.
+I currently work in IT support and graduated from Wayne State University with a bachelor's in Information Technology. I'm based in the Detroit metro area. This portfolio documents my progression toward Identity & Access Management, one project at a time. Outside of IT, I enjoy traveling, playing football, working out, gardening, and music.
+
