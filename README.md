@@ -6,14 +6,14 @@
 
 ---
 
-> I work in IT support and am building a self-directed lab series focused on identity and access management, help desk fundamentals, and traditional + cloud-based administration. Each project simulates a realistic scenario and is documented end to end, not just the fix, but the investigation behind it.
-
----
 ## Portfolio Note
 
 These projects simulate the real workflows of an IT Support and early-career Identity & Access Management professional in a small-to-mid-sized enterprise environment, covering help desk ticketing, network diagnostics, IT asset lifecycle, Active Directory administration, and the employee identity lifecycle (joiner, mover, leaver) with access reviews.
 
 Each one is documented with the full investigation and reasoning, not just the outcome, as a foundation for growing into more advanced IAM and security engineering work over time.
+
+---
+
 ## IT Support & Identity Projects
 
 | Project | Proof | Purpose | Stack | Status |
@@ -28,7 +28,6 @@ Each one is documented with the full investigation and reasoning, not just the o
 
 ## About Me
 
-
-I currently work in IT support and am studying at Wayne State University. I'm based in the Detroit metro area and building hands-on experience toward a career in Identity & Access Management, one project at a time, documented here as I go.
+I currently work in IT support and am studying at Wayne State University, based in the Detroit metro area. This portfolio documents my progression toward Identity & Access Management, one project at a time.
 
 Outside of IT, I enjoy traveling, playing football, working out, gardening, and music.
