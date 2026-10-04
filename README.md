@@ -9,7 +9,13 @@
 > I work in IT support and am building a self-directed lab series focused on identity and access management, help desk fundamentals, and traditional + cloud-based administration. Each project simulates a realistic scenario and is documented end to end, not just the fix, but the investigation behind it.
 
 ---
+## Portfolio Note
 
+The projects in this portfolio are intentionally designed to simulate the real workflows of an IT Support and early-career Identity & Access Management professional operating in a small-to-mid-sized enterprise environment.
+
+Each project focuses on practical, foundational tasks: help desk ticketing and troubleshooting, network diagnostics, IT asset lifecycle management, Active Directory administration, and the employee identity lifecycle (joiner, mover, leaver), including access reviews and group-based permission management.
+
+The goal is to demonstrate structured troubleshooting, clear documentation, and a working understanding of how identity and access are managed day to day, as a foundation for growing into more advanced IAM and security engineering responsibilities over time.
 ## IT Support & Identity Projects
 
 | Project | Proof | Purpose | Stack | Status |
