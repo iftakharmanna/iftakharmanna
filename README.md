@@ -11,11 +11,9 @@
 ---
 ## Portfolio Note
 
-The projects in this portfolio are intentionally designed to simulate the real workflows of an IT Support and early-career Identity & Access Management professional operating in a small-to-mid-sized enterprise environment.
+These projects simulate the real workflows of an IT Support and early-career Identity & Access Management professional in a small-to-mid-sized enterprise environment, covering help desk ticketing, network diagnostics, IT asset lifecycle, Active Directory administration, and the employee identity lifecycle (joiner, mover, leaver) with access reviews.
 
-Each project focuses on practical, foundational tasks: help desk ticketing and troubleshooting, network diagnostics, IT asset lifecycle management, Active Directory administration, and the employee identity lifecycle (joiner, mover, leaver), including access reviews and group-based permission management.
-
-The goal is to demonstrate structured troubleshooting, clear documentation, and a working understanding of how identity and access are managed day to day, as a foundation for growing into more advanced IAM and security engineering responsibilities over time.
+Each one is documented with the full investigation and reasoning, not just the outcome, as a foundation for growing into more advanced IAM and security engineering work over time.
 ## IT Support & Identity Projects
 
 | Project | Proof | Purpose | Stack | Status |
